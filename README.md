@@ -51,6 +51,7 @@ Figure 3. ATXN3 expression across different cell types in the Adult Cortex Meta-
 | **b. What does the plot show?**                           | It shows the average ATXN3 expression and the percentage of cells with detectable ATXN3 expression in each cell type. |
 | **c. What does the plot add compared with the cell map?** | The plot makes it easier to compare ATXN3 expression between the different cell types.                                |
 <img width="427" height="609" alt="image" src="https://github.com/user-attachments/assets/e4fe680b-5016-4cec-a043-ec130a1a7433" />
+
 Figure 4. ATXN3 expression across different cell types in the Adult Cortex Meta-Atlas. The dot plot shows the average expression of ATXN3 and the percentage of cells expressing the gene across different cell types.
 
 ## Part G. Marker Genes
